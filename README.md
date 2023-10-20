@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Goodbaiiii,a student from the School of Cybersecurity at Northwestern Polytechnical University.
+- 👀 I’m interested in security,LLm,robo,Deep learning...
+- 🌱 I’m currently learning Large language model security.
+- 📫 Reach me via LiJunle-@outlook.com .
